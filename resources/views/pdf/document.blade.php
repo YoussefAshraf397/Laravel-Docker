@@ -221,9 +221,9 @@
                 </tr>
                 <tr>
                     <td align="center" style="width: 234px">
-                        <img height="54" src="lo1.png" />
+                        <img height="54" src="images/lo1.png" />
 
-                        <img class=" " src="lo3.png" height="44" width="75" />
+                        <img class=" " src="images/lo3.png" height="44" width="75" />
                     </td>
                 </tr>
                 <tr>
@@ -244,7 +244,7 @@
                         class="auto-style5"
                         style="height: 19px"
                     >
-                        <img class="img541" src="adv2n.png" height="56" width="95" />
+                        <img class="img541" src="images/adv2n.png" height="56" width="95" />
                     </td>
                 </tr>
 
