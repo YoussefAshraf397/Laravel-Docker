@@ -11,7 +11,7 @@ return [
     'margin_bottom'            => 10,
     'margin_header'            => 0,
     'margin_footer'            => 0,
-    'orientation'              => 'P',
+    'orientation'              => 'L',
     'title'                    => 'Laravel mPDF',
     'subject'                  => '',
     'author'                   => '',
